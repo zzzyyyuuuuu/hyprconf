@@ -9,4 +9,5 @@
 - rofi-wayland ( rofi for wayland )
 - konsole
 - thunar
-- fastfetch 
+- fastfetch
+- starship ( after ) 
