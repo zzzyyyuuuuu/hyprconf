@@ -1,0 +1,2 @@
+# hyprconf
+my hyprland rice 
